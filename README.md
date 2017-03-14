@@ -1,6 +1,6 @@
 # Ink Wet
 
-Ink Wet, referred to as `inkwet`, is a python library to fit my specific use case needs.  These are, in no particular order:
+inkwet is a python library to fit my specific use case needs.  These are, in no particular order:
 
 - A comprehensive 2D layer (lol)
 - Best practices SVG export
@@ -25,11 +25,11 @@ When I approach a new design, I find myself reinventing the wheel and repeating 
 
 When I name a new open source project, I roughly follow these priorities:
 
-1) non-offensive (this is not difficult)
-2) unique (search google, pip, other language libraries, products, company names, trademarks, etc).
-3) consistent (`unicorn_dynamite` is rarely appropriate)
-4) easy (short is sweet)
-5) fun (fun to type, for example)
+1. **non-offensive** (this is not difficult)
+2. **unique** (search google, pip, other language libraries, products, company names, trademarks, etc).
+3. **consistent** (`unicorn_dynamite` is rarely appropriate)
+4. **easy** (short is sweet)
+5. **fun** (fun to type, for example)
 
 ## Halp (me)
 
