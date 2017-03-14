@@ -1,7 +1,8 @@
 # Ink Wet
 
-Ink Wet, referred to as `inkwet`, is a python library to fit my specific use
-case needs.  These are, in no particular order:
+This is a place holder for inkwet, which is my plan to build a python library
+to generalize algorithmic computational designs in two dimensions.  The rough
+outline of features I'm trying to build are:
 
 - A comprehensive 2D vector layer
 - Boolean construction
@@ -55,11 +56,11 @@ least one user who isn't me.
 
 When I name a new open source project, I roughly follow these priorities:
 
-1) non-offensive (this is not difficult)
-2) unique (search google, pip, other language libraries, products, company names, trademarks, etc).
-3) consistent (`unicorn_dynamite` is rarely appropriate)
-4) easy (short is sweet)
-5) fun (fun to type, for example)
+1. **non-offensive** (this is not difficult)
+2. **unique** (search google, pip, other language libraries, products, company names, trademarks, etc).
+3. **consistent** (`unicorn_dynamite` is rarely appropriate)
+4. **easy** (short is sweet)
+5. **fun** (fun to type, for example)
 
 ## Interested?
 
