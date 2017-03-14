@@ -57,7 +57,7 @@ least one user who isn't me.
 When I name a new open source project, I roughly follow these priorities:
 
 1. **non-offensive** (this is not difficult)
-2. **unique** (search google, pip, other language libraries, products, company names, trademarks, etc).
+2. **unique** (this **is** difficult)
 3. **consistent** (`unicorn_dynamite` is rarely appropriate)
 4. **easy** (short is sweet)
 5. **fun** (fun to type, for example)
